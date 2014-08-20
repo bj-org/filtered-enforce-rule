@@ -1,7 +1,7 @@
 Maven Plugin : filtered-enforce-rule
 ====================================
 
-This component contains a custom Enforcer Rule for Maven Dependency Convergence. Convergence rule can now accept a include/exclude artifact set.
+This component contains a custom Enforcer Rule for [Maven Dependency Convergence](http://maven.apache.org/enforcer/enforcer-rules/dependencyConvergence.html). Convergence rule can now accept a include/exclude artifact set.
 
 
 Sample Usage
